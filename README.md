@@ -1,3 +1,3 @@
 # JavaFxCustomSwitch
 
-Custom switch for JavaFx, it is my style.
+Custom switch for JavaFx
